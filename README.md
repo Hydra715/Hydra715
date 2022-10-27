@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello everyone
+## I'm a frontend developer, and tools what i am similar with: 
+- HTML5
+- CSS3
+- JS (ES5+)
+- Jest
+- Webpack
+- node.js
+- git
 
-<!--
-**Hydra715/Hydra715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## So next on my list at the moment are:
+- Vue.js (and some libraries)⚡
+- SASS/STYLUS/LESS
+- Bootstrap/Boilerplate
+- Pug
 
-Here are some ideas to get you started:
+You can explore some code examples via pinned repositories and ask me any questions. Good luck✨!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
