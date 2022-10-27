@@ -1,5 +1,5 @@
-# Hello everyone
-## I'm a frontend developer, and tools what i am similar with: 
+# Hello everyone!
+### I'm a frontend developer, and tools what i am similar with: 
 - HTML5
 - CSS3
 - JS (ES5+)
@@ -8,7 +8,7 @@
 - node.js
 - git
 
-## So next on my list at the moment are:
+### So next on my list at the moment are:
 - Vue.js (and some libraries)⚡
 - SASS/STYLUS/LESS
 - Bootstrap/Boilerplate
