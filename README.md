@@ -7,5 +7,5 @@
 
 <img src="https://user-images.githubusercontent.com/58249679/198401625-127ca9a0-0bdf-46f2-a3d5-ff59c3e0977f.svg" alt="drawing" width="30"/><img src="https://user-images.githubusercontent.com/58249679/198401622-2e9aba04-0ba5-4f3c-8c94-f7de50b6a2fd.svg" alt="drawing" width="30"/><img src="https://user-images.githubusercontent.com/58249679/198401618-7378bfc7-8832-4772-bc62-ad88fd244c1d.svg" alt="drawing" width="30"/><img src="https://user-images.githubusercontent.com/58249679/198401627-7958ae03-bd86-49f6-a0d1-4554b43cf79e.svg" alt="drawing" width="30"/>
 
-You can explore some code examples via pinned repositories and ask me any questions. Good luck✨!
+You can explore some code examples via pinned repositories and ask me any questions. Good luck 🙋‍♂️!
 
